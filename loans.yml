@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to bank loans related local APIs with webhook"
+  message: "Welcome to bank loans related local APIs webhook"
   contactDetails:
     name: "John"
     email: "John@gmail.com"
