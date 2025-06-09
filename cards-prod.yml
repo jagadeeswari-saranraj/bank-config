@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to bank cards related local APIs in jagaproduction1"
+  message: "Welcome to bank cards related local APIs in jagaproductioncard2"
   contactDetails:
     name: "jamespeter"
     email: "james@gmail.com"
