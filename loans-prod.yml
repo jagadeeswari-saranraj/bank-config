@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to bank loans related local APIs in jagaproduction"
+  message: "Welcome to bank loans related local APIs in jagaproduction1"
   contactDetails:
     name: "james peter"
     email: "james@gmail.com"
