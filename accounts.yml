@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to bank account related local APIs"
+  message: "Welcome to bank account related local APIs with webhook"
   contactDetails:
     name: "John"
     email: "{cipher}a3aa6773e784faaae5b746c1bd1c347189ef01bbf21d5c02387db0a43c6d7635"
