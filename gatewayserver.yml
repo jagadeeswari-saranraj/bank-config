@@ -5,6 +5,7 @@ eureka:
   instance:
     preferIpAddress: true
   client:
+    registry-fetch-interval-seconds: 5
     register-with-eureka: true
     fetch-registry: true
     service-url:
